@@ -11,3 +11,6 @@ I am open to any discussion / questions.
 
 The project is a complete hobby.
 
+License:
+This is free and unencumbered software released into the public domain.
+For more information, please refer to LICENSE file or <https://unlicense.org>
